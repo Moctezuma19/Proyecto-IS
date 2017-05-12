@@ -1,0 +1,5 @@
+Proof.
+rewrite H.
+simple.
+reflexivity.
+qed.
